@@ -1,3 +1,5 @@
 /*-dump.txt
 /*.so
-/target/
+/target/*
+*.bz2
+/test-ledger
